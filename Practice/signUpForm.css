@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(176, 245, 176);
+}
+.center {
+    margin: auto;
+    width: 40%;
+    border: 2px solid gray;
+    padding: 10px;
+    background-color: lightgray;
+    border-radius: 10px;
+}
+
+#h1 {
+    text-align: center;
+}
+label {
+    font-weight: bold;
+}
+
+input[type=text], input[type=password], input[type=email] {
+    margin: 10px;
+    padding: 10px;
+    border-radius: 3px;
+    width: 90%;
+}
+
+.submit {
+    padding-left: 230px;
+}
